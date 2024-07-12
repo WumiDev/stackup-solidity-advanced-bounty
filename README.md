@@ -84,6 +84,7 @@ contract LiFiDiamond {
 }
 
 ```
+**Used Call Method:** delegatecall
 
 # Explanation
 
