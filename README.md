@@ -144,7 +144,7 @@ assembly {
 
 ## **Impact:**
 
-The fallback function is crucial for the LiFiDiamond contract's functionality within the protocol for several reasons:
+The fallback function is crucial for the LiFiDiamond contract's functionality within the protocol for three main reasons:
 
 ### **1. Extensibility:** 
 It allows the contract to dynamically handle new functions without requiring changes to the core contract. New functionality can be added by deploying new facets and updating the diamond storage.
